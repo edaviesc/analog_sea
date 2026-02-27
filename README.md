@@ -53,7 +53,7 @@ analog_sea/
 ├── index.html
 ├── styles.css
 └── README.md
-└── LICNSE.md
+└── LICENSE.md
 ```
 
 
